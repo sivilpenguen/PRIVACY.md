@@ -1,0 +1,2 @@
+# PRIVACY.md
+everbhing privacy
